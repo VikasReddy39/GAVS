@@ -11,5 +11,6 @@ public class giting
   accup.add(a);
   }
   update accup;
+  system.debug(':'+accup);
   }
 }
